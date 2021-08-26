@@ -1,9 +1,10 @@
 ---
-title: 'Our Difference'
+title: 'Our Strategy'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+
+わたしたちは世界の多様なオープンハードウェアのプロジェクトにいち早く参画して、それらの情報やプロダクトをいち早く日本のユーザに提供します。もしあなたがオープンハードウェアを利用されていたり、その推進に関わっていらっしゃるならば、わたしたちはあなたの最高の仲間です。様々なオープンハードウェアのプロダクトやそのコミュニティを通して、一緒に未来を切り開きませんか？

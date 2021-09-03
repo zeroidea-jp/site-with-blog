@@ -1,9 +1,9 @@
 ---
 title: 'Attempt'
-weight: 4
+weight: 3
 date: 2021-08-30T09:29:16+10:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
-align: left
+align: right
 ---
 
 わたしたちは、特に、オープンソースのモノ（＝オープンハードウェア）でユーザに価値を提供することを目標にしています。

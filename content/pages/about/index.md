@@ -7,12 +7,10 @@ heroSubHeading: "私たちはオープンソースの生態系を新しい領域
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
+
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/pages/about" "content3" >}}
 </div>
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
-</div>
-<div>
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-center "/pages/about" "content4" >}}
 </div>

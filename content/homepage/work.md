@@ -2,7 +2,7 @@
 title: 'our Vision'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work (Coming Soon)'
+button: 'View Our Work & Blog'
 buttonLink: 'work'
 ---
 

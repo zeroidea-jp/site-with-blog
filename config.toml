@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "ja"
-title = "Corporate Site of Zeroidea Co., Ltd. "
+title = "Zeroidea Co., Ltd."
 themesDir = "./themes"
 theme = "hugo-hero-theme"
 
@@ -24,14 +24,14 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@ZeroideaCoLtd"
 
 [[menu.main]]
-	name = "Blog"
+	name = "Philosophy"
 	url = "/services/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
-    name = "Work"
+    name = "Work & Blog"
     url = "/work/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "About"
@@ -39,10 +39,10 @@ theme = "hugo-hero-theme"
     weight = 3
 
 
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+# [[menu.main]]
+    # name = "History"
+    # url = "/history/"
+    # weight = 3
 
 [[menu.main]]
     name = "Contact"

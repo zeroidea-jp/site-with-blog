@@ -1,3 +1,54 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "www.example.com"
+languageCode = "ja"
+title = "Zeroidea Co., Ltd."
+themesDir = "./themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Here is Coporate Site of Zeroidea Co., Ltd. We make empower the industory with ideas and hardwares which are as much as open."
+    meta_og_title = "Corporate Site of Zeroidea Co., Ltd."
+    meta_og_type = "website"
+    meta_og_url = "https://www.zeroidea.co.jp"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Our goal is to establish and maximize the economic sphere of open sources and open hardwares."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@ZeroideaCoLtd"
+    meta_twitter_creator = "@ZeroideaCoLtd"
+
+[[menu.main]]
+	name = "Philosophy"
+	url = "/services/"
+    weight = 2
+
+[[menu.main]]
+    name = "Work & Blog"
+    url = "/work/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+# [[menu.main]]
+    # name = "History"
+    # url = "/history/"
+    # weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

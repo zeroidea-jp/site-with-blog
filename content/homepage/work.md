@@ -1,7 +1,7 @@
 ---
 title: 'our Vision'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/elice-moore-E--AUpYXbjM-unsplash_cut-mono.jpg'
 button: 'View Our Work & Blog'
 buttonLink: 'work'
 ---

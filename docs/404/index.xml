@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sorry. Page Not Found on Zeroidea Co., Ltd.</title>
-    <link>www.example.com/404/</link>
+    <link>www.open-source-life.jp/404/</link>
     <description>Recent content in Sorry. Page Not Found on Zeroidea Co., Ltd.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 30 Aug 2021 10:52:03 +0900</lastBuildDate>
     
-	<atom:link href="www.example.com/404/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.open-source-life.jp/404/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

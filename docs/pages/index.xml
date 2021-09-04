@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Zeroidea Co., Ltd.</title>
-    <link>www.example.com/pages/</link>
+    <link>www.open-source-life.jp/pages/</link>
     <description>Recent content in Pages on Zeroidea Co., Ltd.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="www.example.com/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.open-source-life.jp/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>www.example.com/about/</link>
+      <link>www.open-source-life.jp/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>www.example.com/about/</guid>
+      <guid>www.open-source-life.jp/about/</guid>
       <description></description>
     </item>
     

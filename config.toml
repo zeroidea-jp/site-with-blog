@@ -1,3 +1,4 @@
+baseURL = "open-source-life.jp"
 languageCode = "ja"
 title = "Zeroidea Co., Ltd."
 themesDir = "./themes"

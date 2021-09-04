@@ -6,7 +6,11 @@
   `hugo server -D`
 
 ## to publish
+
   1. compile the site in your local enviroment with:
+
   ` hugo`
+  
   Compiles files will be exported in `/docs`.
-    2. push to the `master` branch
+  
+  2. `push` to the master branch

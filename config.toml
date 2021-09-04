@@ -1,4 +1,4 @@
-baseURL = "open-source-life.jp"
+baseURL = "open-source-life.jp/"
 languageCode = "ja"
 title = "Zeroidea Co., Ltd."
 themesDir = "./themes"
@@ -27,30 +27,30 @@ publishDir = "docs"
 
 [[menu.main]]
 	name = "Philosophy"
-	url = "services/"
+	url = "/services/"
     weight = 2
 
 [[menu.main]]
     name = "Work & Blog"
-    url = "work/"
+    url = "/work/"
     weight = 1
 
 [[menu.main]]
     name = "About"
-    url = "about/"
+    url = "/about/"
     weight = 3
 
 
 # [[menu.main]]
     # name = "History"
-    # url = "history/"
+    # url = "/history/"
     # weight = 3
 
 [[menu.main]]
     name = "Contact"
-    url = "contact/"
+    url = "/contact/"
     weight = 4
 
 [permalinks]
-  post = ":year/:month/:day/:slug/"
-  pages = ":filename/"
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

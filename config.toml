@@ -4,6 +4,8 @@ title = "Zeroidea Co., Ltd."
 themesDir = "./themes"
 theme = "hugo-hero-theme"
 
+publishDir = "docs"
+
 [module]
   [module.hugoVersion]
     extended = true

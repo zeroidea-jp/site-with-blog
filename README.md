@@ -3,7 +3,7 @@
 
 ## to run Dev Server in your local enviroment
 
-  `hugo server -D`
+  run `hugo server -D`
 
 ## to publish
 

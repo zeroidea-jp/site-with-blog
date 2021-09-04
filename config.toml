@@ -1,4 +1,4 @@
-baseURL = "https://open-source-life.jp"
+baseURL = "open-source-life.jp"
 languageCode = "ja"
 title = "Zeroidea Co., Ltd."
 themesDir = "./themes"

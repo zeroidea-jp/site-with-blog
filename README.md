@@ -7,10 +7,7 @@
 
 ## to publish
 
-  1. compile the site in your local enviroment with:
-
-  ` hugo`
-  
-  Compiles files will be exported in `/docs`.
+  1. compile the site on the terminal with:  `hugo`.
+     Compiles files will be exported in `/docs`.
   
   2. `push` to the master branch

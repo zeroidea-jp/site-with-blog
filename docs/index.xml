@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Zeroidea Co., Ltd.</title>
-    <link>open-source-life.jp/</link>
+    <link>zeroidea-jp.github.io/site-with-blog/</link>
     <description>Recent content in Home on Zeroidea Co., Ltd.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 25 Aug 2021 20:31:00 +0900</lastBuildDate>
     
-	<atom:link href="open-source-life.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="zeroidea-jp.github.io/site-with-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Hardware as a Life Style</title>
-      <link>open-source-life.jp/services/philosophy1/</link>
+      <link>zeroidea-jp.github.io/site-with-blog/services/philosophy1/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>open-source-life.jp/services/philosophy1/</guid>
+      <guid>zeroidea-jp.github.io/site-with-blog/services/philosophy1/</guid>
       <description>全てのオープンソースのモノ（＝オープンハードウェア）は、それが共有されるべきなんらかの社会的理由や意義によってオープンソース化されます。 これによって、環境へ配慮する素材、パンデミックにおいて有効な手立てとなる機材、今は一部の企業にしか作れなくて価格やプライバシーの点で自由でないモノなどが、少しずつ、全ての人に利用できるようになってきています。 このようなオープンソースのモノを選ぶということは、ユーザー自身が共感するオープンソースのプロダクトを身につけ、ファッションとして発信し、一緒に未来を作っていくことでもあります。
 ここでは、例えばその環境への配慮した製品を具体例として、オープンソースのソフトウェアとハードウェアを比較した時に、ユーザーが新しく選んでいくライフスタイルや、ユーザーが産業により影響をもたらしながらつくっていく未来像について紹介します。
 環境配慮に貢献するオープンハードウェアの事例 身の回りで大きな成果を上げつつある事例として、Allbirds というスニーカーのメーカーがあります。 2020年に日本上陸したばかりのブランドです。 このメーカーは、靴の全ての部分を環境に配慮した素材で製造していますが、その中でも特に、自社で開発したソール（靴底でクッションになるところ）の素材に関する情報を「オープンソース化」しています。
@@ -34,10 +34,10 @@
     
     <item>
       <title>As Open As Possible</title>
-      <link>open-source-life.jp/services/philosophy2/</link>
+      <link>zeroidea-jp.github.io/site-with-blog/services/philosophy2/</link>
       <pubDate>Mon, 30 Aug 2021 12:33:46 +1000</pubDate>
       
-      <guid>open-source-life.jp/services/philosophy2/</guid>
+      <guid>zeroidea-jp.github.io/site-with-blog/services/philosophy2/</guid>
       <description>ユーザーが必要とする機能を落とさず、オープンソースによるモノの持つ全ての価値をユーザーにとどけるために、まず「可能な限りオープンな」ハードウェアを提供します。 わたしたちはモノの領域にオープンソースの生態系を可能な限り持ち込むことで、より人に寄り添い、それによって新しい価値を提供できると考えています。
 モノの本来の価値をユーザーが全て享受できる社会 例えば、現在手元にあるほとんどの製品は、その中身がブラックボックス化しています。 ここで、もし誰もがその製品の中身や個々の歴史を自由に知れたり、また自由に分解・コピー・再利用できれるとすると、そのモノを利用する全てのヒトの可能性はさらに広がっていきます（もちろん、あなたも）。 なぜなら、その製品とあなたの関係における課題やニーズを最もよく知るのは、当事者であるあなた自身なのですから。 これは、初期の大規模経済の中で知財という考え方が生まれるよりもっと以前の、原始的でより自然なヒトとモノとの関係により近いものかもしれません。 公共の福祉に反しない限りにおいて、全てのヒトとモノとの関係は、本来、完全に自由であるべきだとわたしたちは考えます。
 オープンハードウェアの生態系を広めるために 一方で、モノを全て完全にオープンソース提供しようとしても、最先端のプロセスを要する半導体部品など、プロプラエタリ（特定の企業に知財が抑えられるもの）を抜きに製作するのは現実的ではありません。 日進月歩で高度化する今日において、現状ではプロプラエタリのものでしか対応できないものはそれに任せつつも、オープンソース化できる部品やソフトウェア、組み立て方、またオープンソースとの親和性などの麺から、「可能な限りオープン」なかたちで提供することを、まずわたしたちは目指します。 この様なアプローチは、オープンハードウェアで実績を上げつつある世界のベンチャーやチームでも多く採用されています。
@@ -46,10 +46,10 @@
     
     <item>
       <title>About</title>
-      <link>open-source-life.jp/about/</link>
+      <link>zeroidea-jp.github.io/site-with-blog/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>open-source-life.jp/about/</guid>
+      <guid>zeroidea-jp.github.io/site-with-blog/about/</guid>
       <description></description>
     </item>
     

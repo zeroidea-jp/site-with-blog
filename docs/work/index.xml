@@ -12,13 +12,18 @@
     
     
     <item>
-      <title>こちらはテンプレートです（見出しのタイトル）</title>
-      <link>https://www.zeroidea.co.jp/work/template/</link>
+      <title>オープンハードウェア概念こそが人類文明を発展させた</title>
+      <link>https://www.zeroidea.co.jp/work/open-hardware-as-human-instinct/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>https://www.zeroidea.co.jp/work/template/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>https://www.zeroidea.co.jp/work/open-hardware-as-human-instinct/</guid>
+      <description>この記事では「オープンハードウェア」の過去について考えたいと思います。 オープンハードウェアという言葉やそれに近い言葉は、おそらくここ20-30年ほどで使われるようになったものだと思われますが、概念としてはもっと遡れるのでは？というお話です。
+「モノのアイデアを共有する」というのは、人類史における文明の発展の経緯そのものです。 例えば、世界中の石器時代の遺跡から、石の道具や、石で丸木を削って作った丸木舟が出土することを想像してみて下さい。 これはまさに、人類が便利なモノや方法を共有しながら、世界に拡大していった過程を物語っています。
+土器、青銅器、農耕……そういった文化が共有されたぶんだけ、人類は自分たちの生活を豊かにしてきました。 また、大陸の文明を取り入れつつ発展した日本の歴史においても、共有は重要な要素であるといえます。 もちろん情報を共有しないことで得をした人もいると思いますが、文明の発展に寄与したのは、よいものを積極的に共有した人だということは、創造に難くありません。
+さて、時代はうつり、近代に目を転じてみましょう。 突然ですが、秋葉原の電気街の成り立ちをご存知ですか？ 秋葉原はもともと、闇市で電子部品を売っていた店舗が移転してきたことで、今のような電気街になっていきました。 これはまさに「オープンハードウェア」的なことがいかに求められてきたかの証左だと思います。 ひとむかし前、人々はラジオなどを自分たちで作ったり、修理していました（もちろん、人には依りますが）。 いま私達がTVやPCを作るとか修理するとなったら、かなり難しく感じるのではないでしょうか？ そう、むかしは「モノ」と「ヒト」の距離が近かったのです。
+もう一つ例を出しましょう。 アップルの初期のPCは、購入者に基盤の回路図が同封されていたそうです。 これは主に修理用なのですが、その仕様から発想を得て新しいものを作るということもできました。 なお、アップルのやり方は当時すごく特殊だったわけではなく、むかしの家電のなかには、同じように回路図が同封されているものがあったのを覚えている方も多いかもしれません。 2021年現在、世の中の家電のほとんどは、どのような仕組みで動作しているか、ユーザーが細かい仕様を把握できない状態になっています。 ユーザー目線で考えると、細かい仕組みを考えなくていいというのは気楽かもしれませんが、モノと私たちの距離が遠くなってしまったことには一抹の寂しさを感じます。 そういったところから生まれる「難しそう」という感覚が、エンジニアリングへのハードルを上げてしまっており、これを変えることは、文明をもう一度前向きにすることに繋がっていくのではないでしょうか？
+モノとヒトの距離が近かった時代ーーオープンソースが普及すると、人類はもう一度そんな時代に戻っていくように感じます。
+当社自身がオープンソース化を進める方法論について詳しく知りたければ、ぜひ当社のアプローチもあわせてご覧下さい。</description>
     </item>
     
   </channel>

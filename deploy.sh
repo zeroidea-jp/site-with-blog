@@ -11,7 +11,7 @@ rm -rf docs/
 hugo -b https://www.zeroidea.co.jp/ # -b option and root url are needed to avoid intenral link boroken when published
 
 # add CNAME file in docs/
-echo "www.zeroidea.co.jp/" > docs/CNAME
+echo "www.zeroidea.co.jp" > docs/CNAME
 
 # Go To Public folder
 cd docs

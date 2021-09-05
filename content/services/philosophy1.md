@@ -7,7 +7,7 @@ draft: false
 weight: 1
 heroHeading: 'Open Hardware as a Life Style'
 heroSubHeading: '全ての人をもう一歩豊かにするためにオープンにされたモノを選び、ファッションとして身につけ、一緒に発展させる。'
-heroBackground: 'services/service2.jpg'
+heroBackground: '/services/service2.jpg'
 ---
 
 全てのオープンソースのモノ（＝オープンハードウェア）は、それが共有されるべきなんらかの社会的理由や意義によってオープンソース化されます。

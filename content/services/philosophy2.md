@@ -7,7 +7,7 @@ featured: true
 weight: 2
 heroHeading: 'As Open As Possible'
 heroSubHeading: 'ユーザの高いニーズに応えつつ、同時にオープンソースを介してユーザにより多くの価値を還元し、その生態系を拡大する'
-heroBackground: 'services/service1.jpg'
+heroBackground: '/services/service1.jpg'
 ---
 
 ユーザーが必要とする機能を落とさず、オープンソースによるモノの持つ全ての価値をユーザーにとどけるために、まず「可能な限りオープンな」ハードウェアを提供します。

@@ -1,14 +1,14 @@
 ---
 title: '企業が自社製品をオープンソース化するメリットとは？'
 date: 2018-11-18T12:33:46+10:00
-draft: true
+draft: false
 weight: 2
 heroHeading: '企業が自社製品をオープンソース化するメリットとは？'
 heroSubHeading: 'Open Source for All Hardware Industry'
 heroBackground: 'https://source.unsplash.com/8sOZJ8JF0S8/1920x1280'
 thumbnail: 'https://source.unsplash.com/8sOZJ8JF0S8/640x426'
-images: ['https://source.unsplash.com/random/400x600/?nature',
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+# images: ['https://source.unsplash.com/random/400x600/?nature',
+# 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
 企業が自社製品をオープンソース化するというのは、一見すると損なように感じます。しかし、実はそこには様々なメリットがあるのです。この記事では、実際にオープンソース化を実践している企業の事例を紹介しながら、そのポイントを解説します。

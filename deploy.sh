@@ -8,7 +8,10 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 rm -rf docs/
 
 # Build the project.
-hugo -b https:/open-source-life.jp # -b option and root url are needed to avoid intenral link boroken when published
+hugo -b https://open-source-life.jp # -b option and root url are needed to avoid intenral link boroken when published
+
+# add CNAME file in docs/
+echo "open-source-life.jp" > docs/CNAME
 
 # Go To Public folder
 cd docs

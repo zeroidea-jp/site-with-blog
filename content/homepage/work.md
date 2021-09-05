@@ -1,7 +1,7 @@
 ---
 title: 'our Vision'
 weight: 1
-background: 'images/elice-moore-E--AUpYXbjM-unsplash_cut-mono_white.jpg'
+background: '/images/elice-moore-E--AUpYXbjM-unsplash_cut-mono_white.jpg'
 button: 'View Our Work & Blog'
 buttonLink: 'work'
 ---

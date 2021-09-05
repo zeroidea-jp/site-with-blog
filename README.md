@@ -7,7 +7,7 @@
 
 ## to publish
 
-  1. compile the site on the terminal with:  `hugo`.
+  1. compile the site on the terminal such as:  `hugo -d https://example.com`.
      Compiles files will be exported in `/docs`.
 
   2. `push` the changes to the master branch

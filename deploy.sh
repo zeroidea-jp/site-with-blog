@@ -8,7 +8,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 rm -rf docs/
 
 # Build the project.
-hugo -d https:/open-source-life.jp # -d option and url is needed to avoid intenral link boroken when published
+hugo -b https:/open-source-life.jp # -b option and root url are needed to avoid intenral link boroken when published
 
 # Go To Public folder
 cd docs

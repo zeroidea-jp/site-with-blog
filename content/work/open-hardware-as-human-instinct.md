@@ -1,7 +1,7 @@
 ---
 title: 'オープンハードウェア概念こそが人類文明を発展させた'
 date: 2018-11-18T12:33:46+10:00
-draft: true
+draft: false
 weight: 1
 heroHeading: 'オープンハードウェア概念こそが人類文明を発展させた'
 heroSubHeading: 'Open Hardware as Human Instinct'

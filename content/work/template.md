@@ -1,7 +1,7 @@
 ---
 title: 'こちらはテンプレートです（見出しのタイトル）'
 date: 2018-11-18T12:33:46+10:00
-draft: false
+draft: true
 weight: 100
 heroHeading: 'こちらはテンプレートです（本文タイトル）'
 heroSubHeading: 'Revitalising a public space in Spain.'

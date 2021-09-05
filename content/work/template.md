@@ -1,9 +1,9 @@
 ---
-title: 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめも'
+title: 'こちらはテンプレートです（見出しのタイトル）'
 date: 2018-11-18T12:33:46+10:00
-draft: true
-weight: 1
-heroHeading: 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめも'
+draft: false
+weight: 100
+heroHeading: 'こちらはテンプレートです（本文タイトル）'
 heroSubHeading: 'Revitalising a public space in Spain.'
 heroBackground: '/work/work1.jpg'
 thumbnail: '/work/work1-thumbnail.jpg'

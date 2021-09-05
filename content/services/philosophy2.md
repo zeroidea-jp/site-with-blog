@@ -1,7 +1,7 @@
 ---
 title: 'As Open As Possible'
 date: 2021-08-30T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+icon: '/services/service-icon-1.png'
 draft: false
 featured: true
 weight: 2

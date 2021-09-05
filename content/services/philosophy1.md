@@ -1,7 +1,7 @@
 ---
 title: 'Open Hardware as a Life Style'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-6.png'
+icon: '/services/service-icon-6.png'
 featured: true
 draft: false
 weight: 1

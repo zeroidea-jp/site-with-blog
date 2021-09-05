@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66" height="75.102" viewBox="0 0 66 75.102" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Google Font to Svg Path.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="logo">
+            <path d="M 41 22.802 L 41 31.302 Q 39 33.402 35.75 37.202 Q 32.5 41.002 28.8 45.652 A 364.668 364.668 0 0 0 21.819 54.722 A 396.886 396.886 0 0 0 21.35 55.352 A 209.61 209.61 0 0 0 16.955 61.488 A 170.818 170.818 0 0 0 14.6 65.002 L 41.6 65.002 L 41.6 75.102 L 0 75.102 L 0 67.602 A 79.453 79.453 0 0 1 2.389 63.562 Q 3.622 61.605 5.079 59.505 A 129.761 129.761 0 0 1 5.5 58.902 Q 8.8 54.202 12.3 49.452 A 281.221 281.221 0 0 1 18.387 41.484 A 253.818 253.818 0 0 1 19.25 40.402 A 499.452 499.452 0 0 1 22.125 36.85 Q 23.442 35.239 24.626 33.823 A 275.081 275.081 0 0 1 25.4 32.902 L 1.3 32.902 L 1.3 22.802 L 41 22.802 Z" id="0" vector-effect="non-scaling-stroke"
+             fill="#3f3f3f"></path>
+            <path d="M 54.2 22.802 L 54.2 75.102 L 42.1 75.102 L 42.1 22.802 L 54.2 22.802 Z " id="1" vector-effect="non-scaling-stroke"
+             fill="#3f3f3f"></path>
+            <path d="M 55.178 9.9 A 8.473 8.473 0 0 0 55.5 7.502 Q 55.5 4.002 53.3 2.002 Q 51.1 0.002 48.1 0.002 Q 45 0.002 42.8 2.002 A 6.447 6.447 0 0 0 40.884 5.18 A 8.982 8.982 0 0 0 40.6 7.502 Q 40.6 10.902 42.8 12.902 Q 45 14.902 48.1 14.902 Q 51.1 14.902 53.3 12.902 A 6.435 6.435 0 0 0 55.178 9.9 Z" id="1" vector-effect="non-scaling-stroke"
+             fill="#2142cf"></path>
+
+        </g>
+    </g>
+</svg>

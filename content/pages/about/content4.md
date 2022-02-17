@@ -12,7 +12,6 @@ align: left
 | Company Name          | Zeroidea Co., Ltd              |
 | &emsp;| &emsp; |
 | 代表取締役（CEO）     | 大槻 祥平（Otsuki, Shohei）    |
-| 代表取締役（COO）     | 宮本 道人（Miyamoto, Dohjin）  |
 | &emsp; | &emsp; |
-| 所在地 | 千葉県市川市菅野２−３−４ 宮本三蔵館１０１号   |
-| HQ Location | #101, Miyamoto Sanzo-kan, 2-chome 3-4, Sugano, Ichikawa, Chiba, JP |
+| 所在地 | 京都府福知山市三和町大身 1305 番地   |
+| HQ Location | 1305 Omi, Miwa-cho, Fukuchiyama, Kyoto, JP |

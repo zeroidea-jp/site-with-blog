@@ -1,5 +1,5 @@
 ---
-title: '代表取締役および取締役の変更'
+title: '代表取締役および取締役の変更のお知らせ'
 weight: 1000
 date: 2022-02-01T09:00:16+10:00
 # background: 'images/ashley-west-edwards-usUA4BT_JiU-unsplash_cut2.jpg'

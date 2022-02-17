@@ -1,0 +1,15 @@
+<div class="service service-summary">
+  {{ if .Params.icon }}
+  <div class="service-image">
+    <img src="{{ .Site.BaseURL }}{{ .Params.icon }}"/>
+  </div>
+  {{ end }}
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Date | truncate 10 ""}}
+    {{ .Content | truncate 25 "..." }}
+
+  </div>
+</div>

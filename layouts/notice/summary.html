@@ -5,10 +5,10 @@
   </div>
   {{ end }}
   <div class="service-content">
-    <h2 class="service-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h2>
     {{ .Date | truncate 10 ""}}
+    <h3 class="service-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h3>
     {{ .Content | truncate 25 "..." }}
 
   </div>

@@ -1,5 +1,5 @@
 ---
-title: '2019 年度の決算を公開しました'
+title: '2019 年度の決算'
 weight: 1002
 date: 2021-08-01T09:00:16+10:00
 # background: 'images/ashley-west-edwards-usUA4BT_JiU-unsplash_cut2.jpg'

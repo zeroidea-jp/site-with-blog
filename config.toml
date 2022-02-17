@@ -27,7 +27,7 @@ publishDir = "docs"
 
 [[menu.main]]
 	name = "Philosophy"
-	url = "/services/"
+	url = "/philosophy/"
     weight = 2
 
 [[menu.main]]
@@ -41,15 +41,15 @@ publishDir = "docs"
     weight = 3
 
 
-# [[menu.main]]
-    # name = "History"
-    # url = "/history/"
-    # weight = 3
+[[menu.main]]
+    name = "Notice"
+    url = "/notice/"
+    weight = 4
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

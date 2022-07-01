@@ -1,98 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.zeroidea.co.jp/philosophy/philosophy1/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/work/open-hardware-as-human-instinct/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/philosophy/philosophy2/</loc>
     <lastmod>2021-08-30T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/work/open-source-for-private-company/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/notice/2022-02-01-head-office-relocation-copy/</loc>
     <lastmod>2022-02-01T09:00:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-purposes/</loc>
     <lastmod>2022-02-01T09:00:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-officers/</loc>
     <lastmod>2022-02-01T09:00:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/notice/2021-08-01-financial-results/</loc>
     <lastmod>2021-08-01T09:00:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/notice/2020-08-02-financial-results/</loc>
     <lastmod>2020-08-01T09:00:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/notice/</loc>
     <lastmod>2022-02-17T15:50:34+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/contact/</loc>
     <lastmod>2021-08-30T15:50:34+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/philosophy/</loc>
     <lastmod>2021-08-30T11:52:18+07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/404/</loc>
     <lastmod>2021-08-30T10:52:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/</loc>
     <lastmod>2021-08-25T20:31:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/about/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/pages/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/work/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.zeroidea.co.jp/tags/</loc>
   </url>
-  
 </urlset>

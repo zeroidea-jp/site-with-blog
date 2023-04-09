@@ -12,7 +12,6 @@ publishDir = "docs"
     min = "0.55.0"
 
 [params]
-  google_analytics_id="G-4J1Q25NFTE"
 
   [params.homepage_meta_tags]
     meta_description = "Here is Coporate Site of Zeroidea Co., Ltd. We make empower the industory with ideas and hardwares which are as much as open."

@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'About Us'
-heroSubHeading: "私たちはオープンソースの生態系を新しい領域に持ち込むことで、より人に寄り添い、新しい価値を創出しようとしているチームです。"
+heroSubHeading: "わたしたちは、中山間地域に特化した課題に寄り添い、エンジニアリングによる課題解決を目指しています。　"
 heroBackground: 'images/harrison-doran-qZpsBGfdhbo-unsplash_cut.jpg'
 ---
 

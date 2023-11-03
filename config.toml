@@ -24,15 +24,6 @@ publishDir = "docs"
     meta_twitter_site = "@ZeroideaCoLtd"
     meta_twitter_creator = "@ZeroideaCoLtd"
 
-[[menu.main]]
-	name = "Philosophy"
-	url = "/philosophy/"
-    weight = 2
-
-[[menu.main]]
-    name = "Work & Blog"
-    url = "/work/"
-    weight = 1
 
 [[menu.main]]
     name = "About"

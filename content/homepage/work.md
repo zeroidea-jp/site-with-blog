@@ -1,12 +1,10 @@
 ---
 title: 'our Vision'
 weight: 1
-background: 'images/christian-castellanos-PLW7pCsP9Lo-unsplash.jpg'
-button: 'View Our Work & Blog'
-buttonLink: '/work'
+background: 'images/dan-cristian-padure-dsJtesSBCeY-unsplash_Flip-Horizontal.jpg'
+button: 'about us'
+buttonLink: '/about'
 ---
 
-
-わたしたちでは人と自然との境界にこそ、人類が本質的に向き合うべき課題があると考えいます。
-その一つ一つのを解決していく（zeroidea にしていく）取り組みを進めています。
+わたしたちはエンジニアリングの立場から中山間地域の課題を解決し、更にそこに付加価値を創出することで、人を惹きつける地域づくりに貢献します。
 

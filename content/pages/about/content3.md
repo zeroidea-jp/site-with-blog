@@ -1,5 +1,5 @@
 ---
-title: 'the Most Open Company, whenever You Can Join.'
+title: '人と自然の境界に、エンジニアアリングの観点から向き合いませんか？'
 weight: 3
 date: 2021-08-30T09:29:16+10:00
 background: 'images/ashley-west-edwards-usUA4BT_JiU-unsplash_cut2.jpg'

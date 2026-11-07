@@ -1,107 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Top on Zeroidea Co., Ltd.</title>
-    <link>https://www.zeroidea.co.jp/</link>
-    <description>Recent content in Top on Zeroidea Co., Ltd.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Wed, 25 Aug 2021 20:31:00 +0900</lastBuildDate><atom:link href="https://www.zeroidea.co.jp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2025 年度決算報告</title>
-      <link>https://www.zeroidea.co.jp/notice/2026-08-15-financial-results/</link>
-      <pubDate>Sat, 15 Aug 2026 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2026-08-15-financial-results/</guid>
-      <description>2025 年度の決算書を公開しました。</description>
-    </item>
-    
-    <item>
-      <title>2024 年度決算報告</title>
-      <link>https://www.zeroidea.co.jp/notice/2025-07-31-financial-results/</link>
-      <pubDate>Wed, 30 Jul 2025 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2025-07-31-financial-results/</guid>
-      <description>2024 年度の決算書を公開しました。</description>
-    </item>
-    
-    <item>
-      <title>活動報告</title>
-      <link>https://www.zeroidea.co.jp/notice/2023-11-10-restarting/</link>
-      <pubDate>Sat, 11 Nov 2023 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2023-11-10-restarting/</guid>
-      <description>株式会社ゼロアイデアは現在、法人としての活動の再開に向けて事業の準備を進めています。 具体的には中山間地域の課題にフォーカスして、エンジニアリングによる課題の解決と付加価値の創出を目指して活動をしています。</description>
-    </item>
-    
-    <item>
-      <title>本店所在地の変更</title>
-      <link>https://www.zeroidea.co.jp/notice/2022-02-01-head-office-relocation-copy/</link>
-      <pubDate>Wed, 01 Mar 2023 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2022-02-01-head-office-relocation-copy/</guid>
-      <description>株式会社ゼロアイデアは休眠しました。</description>
-    </item>
-    
-    <item>
-      <title>本店所在地の変更</title>
-      <link>https://www.zeroidea.co.jp/notice/2023-03-01-head-office-relocation-copy-2/</link>
-      <pubDate>Tue, 01 Feb 2022 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2023-03-01-head-office-relocation-copy-2/</guid>
-      <description>下記のように、本店所在地を京都府福知山市に移転しました。
- 〒620-1421 京都府福知山市三和町大身1305番地 Tel: 090-5058-4334  </description>
-    </item>
-    
-    <item>
-      <title>目的および広告方法の変更</title>
-      <link>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-purposes/</link>
-      <pubDate>Tue, 01 Feb 2022 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-purposes/</guid>
-      <description>下記のように、事業目的および広告方法を変更しました。
-「目的」
- １．暗号通貨を中心とした電子的資産の国内外取引所における主として自動取引による自己資金での資産運用 ２．特にハードウェアに関わるオープンソースの枠組みへの参画と、それによる価値、産業サイクルの創出 ３．上記（１）（２）のためのソフトウェアの開発、運用、買取、保守及び輸出入 ４．上記（１）（２）のためのハードウェアの設計、開発、販売、買取、保守及び輸出入 ５．その他適法な一切の事業  「原因年月日」令和４年２月１日変更
- 「公告をする方法」
- 当会社の公告は、電子公告によって行う。ただし、事故その他やむを得ない事由によって電子公告による公告をすることができない場合は、官報に掲載してする。  「原因年月日」令和４年２月１日変更</description>
-    </item>
-    
-    <item>
-      <title>代表取締役および取締役の変更</title>
-      <link>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-officers/</link>
-      <pubDate>Tue, 01 Feb 2022 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-officers/</guid>
-      <description>下記のように、代表取締役および取締役の変更がございました。
- 宮本道人が代表取締役および取締役を辞任しました。 代表取締役の大槻祥平の住所が千葉県市川市から京都府福知山市に変わりました。  </description>
-    </item>
-    
-    <item>
-      <title>2020 年度決算報告</title>
-      <link>https://www.zeroidea.co.jp/notice/2021-08-01-financial-results/</link>
-      <pubDate>Sun, 01 Aug 2021 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2021-08-01-financial-results/</guid>
-      <description>2020 年度の決算書を公開しました。</description>
-    </item>
-    
-    <item>
-      <title>2019 年度決算報告</title>
-      <link>https://www.zeroidea.co.jp/notice/2020-08-02-financial-results/</link>
-      <pubDate>Sat, 01 Aug 2020 09:00:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/notice/2020-08-02-financial-results/</guid>
-      <description>2019 年度の決算書を公開しました。</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.zeroidea.co.jp/about/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/about/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Top on Zeroidea Co., Ltd.</title>
+		<link>https://www.zeroidea.co.jp/</link>
+		<description>Recent content in Top on Zeroidea Co., Ltd.</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0900</lastBuildDate>
+		
+			<atom:link href="https://www.zeroidea.co.jp/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>事業の展開について (無線・ネットワークの計測と診断サービスの開始)</title>
+				<link>https://www.zeroidea.co.jp/notice/2026-11-07-new-services/</link>
+				<pubDate>Sat, 07 Nov 2026 09:00:00 +0900</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2026-11-07-new-services/</guid>
+				<description>&lt;p&gt;株式会社ゼロアイデアは、遠隔操作・自動化の装置の無線・ネットワークに関する 2 つのサービスを開始しました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://whystop.zeroidea.co.jp/&#34;&gt;whystop&lt;/a&gt;: 稼働中の装置の「止まる・途切れる」の原因を、電波の実測とネットワークの挙動から現地で切り分ける診断サービス。&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://survey.zeroidea.co.jp/&#34;&gt;電波サイトサーベイ&lt;/a&gt;: 装置の導入前に、現場の電波環境 (使う帯域の混雑、妨害電波の有無) を測って報告する調査サービス。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;詳しくは各サービスのサイトをご覧ください。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 年度決算報告</title>
+				<link>https://www.zeroidea.co.jp/notice/2026-08-15-financial-results/</link>
+				<pubDate>Sat, 15 Aug 2026 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2026-08-15-financial-results/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/oshw-tokyo/financial-results/blob/main/financial-results/2025-financial-results-zeroidea.pdf&#34;&gt;2025 年度の決算書&lt;/a&gt;を公開しました。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 年度決算報告</title>
+				<link>https://www.zeroidea.co.jp/notice/2025-07-31-financial-results/</link>
+				<pubDate>Wed, 30 Jul 2025 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2025-07-31-financial-results/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/oshw-tokyo/financial-results/blob/main/financial-results/2024-financial-results-zeroidea.pdf&#34;&gt;2024 年度の決算書&lt;/a&gt;を公開しました。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>活動報告</title>
+				<link>https://www.zeroidea.co.jp/notice/2023-11-10-restarting/</link>
+				<pubDate>Sat, 11 Nov 2023 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2023-11-10-restarting/</guid>
+				<description>&lt;p&gt;株式会社ゼロアイデアは現在、法人としての活動の再開に向けて事業の準備を進めています。&#xA;具体的には中山間地域の課題にフォーカスして、エンジニアリングによる課題の解決と付加価値の創出を目指して活動をしています。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>本店所在地の変更</title>
+				<link>https://www.zeroidea.co.jp/notice/2022-02-01-head-office-relocation-copy/</link>
+				<pubDate>Wed, 01 Mar 2023 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2022-02-01-head-office-relocation-copy/</guid>
+				<description>&lt;p&gt;株式会社ゼロアイデアは休眠しました。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>本店所在地の変更</title>
+				<link>https://www.zeroidea.co.jp/notice/2023-03-01-head-office-relocation-copy-2/</link>
+				<pubDate>Tue, 01 Feb 2022 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2023-03-01-head-office-relocation-copy-2/</guid>
+				<description>&lt;p&gt;下記のように、本店所在地を京都府福知山市に移転しました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;〒620-1421&lt;/li&gt;&#xA;&lt;li&gt;京都府福知山市三和町大身1305番地&lt;/li&gt;&#xA;&lt;li&gt;Tel: 090-5058-4334&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>目的および広告方法の変更</title>
+				<link>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-purposes/</link>
+				<pubDate>Tue, 01 Feb 2022 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-purposes/</guid>
+				<description>&lt;p&gt;下記のように、事業目的および広告方法を変更しました。&lt;/p&gt;&#xA;&lt;p&gt;「目的」&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;１．暗号通貨を中心とした電子的資産の国内外取引所における主として自動取引による自己資金での資産運用&lt;/li&gt;&#xA;&lt;li&gt;２．特にハードウェアに関わるオープンソースの枠組みへの参画と、それによる価値、産業サイクルの創出&lt;/li&gt;&#xA;&lt;li&gt;３．上記（１）（２）のためのソフトウェアの開発、運用、買取、保守及び輸出入&lt;/li&gt;&#xA;&lt;li&gt;４．上記（１）（２）のためのハードウェアの設計、開発、販売、買取、保守及び輸出入&lt;/li&gt;&#xA;&lt;li&gt;５．その他適法な一切の事業&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;「原因年月日」令和４年２月１日変更&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;「公告をする方法」&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;当会社の公告は、電子公告によって行う。ただし、事故その他やむを得ない事由によって電子公告による公告をすることができない場合は、官報に掲載してする。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;「原因年月日」令和４年２月１日変更&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>代表取締役および取締役の変更</title>
+				<link>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-officers/</link>
+				<pubDate>Tue, 01 Feb 2022 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2022-02-01-change-of-officers/</guid>
+				<description>&lt;p&gt;下記のように、代表取締役および取締役の変更がございました。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;宮本道人が代表取締役および取締役を辞任しました。&lt;/li&gt;&#xA;&lt;li&gt;代表取締役の大槻祥平の住所が千葉県市川市から京都府福知山市に変わりました。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>2020 年度決算報告</title>
+				<link>https://www.zeroidea.co.jp/notice/2021-08-01-financial-results/</link>
+				<pubDate>Sun, 01 Aug 2021 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2021-08-01-financial-results/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/oshw-tokyo/financial-results/blob/main/financial-results/2020-financial-results-zeroidea.pdf&#34;&gt;2020 年度の決算書&lt;/a&gt;を公開しました。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2019 年度決算報告</title>
+				<link>https://www.zeroidea.co.jp/notice/2020-08-02-financial-results/</link>
+				<pubDate>Sat, 01 Aug 2020 09:00:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/notice/2020-08-02-financial-results/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/oshw-tokyo/financial-results/blob/main/financial-results/2019-financial-results-zeroidea.pdf&#34;&gt;2019 年度の決算書&lt;/a&gt;を公開しました。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>https://www.zeroidea.co.jp/about/</link>
+				<pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/about/</guid>
+				<description>&lt;div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; /images/ashley-west-edwards-usUA4BT_JiU-unsplash_cut2.jpg &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xA;          &lt;p&gt;ゼロアイデアは、京都府福知山市の中山間地域に拠点を置く、小さな研究開発型の企業です。物理をベースに、測定と数値解析で現象を確かめ、現場で効く対策に落とし込むことを仕事にしています。&lt;/p&gt;&#xA;&lt;p&gt;現在は、スタートアップの技術支援と、そこから派生した「現場で測って解析する」調査パッケージ (無線・ネットワークの計測と診断: &lt;a href=&#34;https://whystop.zeroidea.co.jp/&#34;&gt;whystop&lt;/a&gt;、&lt;a href=&#34;https://survey.zeroidea.co.jp/&#34;&gt;電波サイトサーベイ&lt;/a&gt;)、自社として関心のある分野での試行を行っています。&lt;/p&gt;&#xA;&lt;p&gt;ご一緒できることがありましたら、お気軽にご連絡ください。&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;    &lt;div class=&#34;strip bg-primary bg-cover bg-position-top bg-overlay&#34; style=&#34;background-image: url(&#39; /&#39;);&#34;&gt;&#xA;      &lt;div class=&#34;container pt-8 pb-8 pb-md-12 pt-md-12&#34;&gt;&#xA;        &lt;div class=&#34;row justify-content-center&#34;&gt;&#xA;          &lt;div class=&#34;col-12 col-md-8 text-center text-white&#34;&gt;&#xA;            &lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;          &lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;                                   &lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;会社名&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;株式会社ゼロアイデア&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Company Name&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Zeroidea Co., Ltd&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;代表取締役（CEO）&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;大槻 祥平（Otsuki, Shohei）&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;事業内容&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;現場の計測・解析 (無線・ネットワークの計測と診断)、スタートアップの技術支援、研究開発&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Business&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Field measurement and analysis (wireless and network diagnostics), engineering support for startups, R&amp;amp;D&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;所在地&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;京都府福知山市三和町大身 1305 番地&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;HQ Location&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;1305 Omi, Miwa-cho, Fukuchiyama, Kyoto, JP&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&#xA;            &#xA;          &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+	</channel>
 </rss>

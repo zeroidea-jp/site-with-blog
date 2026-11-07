@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Zeroidea Co., Ltd.</title>
-    <link>https://www.zeroidea.co.jp/pages/</link>
-    <description>Recent content in Pages on Zeroidea Co., Ltd.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://www.zeroidea.co.jp/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://www.zeroidea.co.jp/about/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>https://www.zeroidea.co.jp/about/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Pages on Zeroidea Co., Ltd.</title>
+		<link>https://www.zeroidea.co.jp/pages/</link>
+		<description>Recent content in Pages on Zeroidea Co., Ltd.</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
+		
+			<atom:link href="https://www.zeroidea.co.jp/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>https://www.zeroidea.co.jp/about/</link>
+				<pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+				<guid>https://www.zeroidea.co.jp/about/</guid>
+				<description>&lt;div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; /images/ashley-west-edwards-usUA4BT_JiU-unsplash_cut2.jpg &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xA;          &lt;p&gt;ゼロアイデアは、京都府福知山市の中山間地域に拠点を置く、小さな研究開発型の企業です。物理をベースに、測定と数値解析で現象を確かめ、現場で効く対策に落とし込むことを仕事にしています。&lt;/p&gt;&#xA;&lt;p&gt;現在は、スタートアップの技術支援と、そこから派生した「現場で測って解析する」調査パッケージ (無線・ネットワークの計測と診断: &lt;a href=&#34;https://whystop.zeroidea.co.jp/&#34;&gt;whystop&lt;/a&gt;、&lt;a href=&#34;https://survey.zeroidea.co.jp/&#34;&gt;電波サイトサーベイ&lt;/a&gt;)、自社として関心のある分野での試行を行っています。&lt;/p&gt;&#xA;&lt;p&gt;ご一緒できることがありましたら、お気軽にご連絡ください。&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;    &lt;div class=&#34;strip bg-primary bg-cover bg-position-top bg-overlay&#34; style=&#34;background-image: url(&#39; /&#39;);&#34;&gt;&#xA;      &lt;div class=&#34;container pt-8 pb-8 pb-md-12 pt-md-12&#34;&gt;&#xA;        &lt;div class=&#34;row justify-content-center&#34;&gt;&#xA;          &lt;div class=&#34;col-12 col-md-8 text-center text-white&#34;&gt;&#xA;            &lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;          &lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;                                   &lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;会社名&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;株式会社ゼロアイデア&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Company Name&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Zeroidea Co., Ltd&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;代表取締役（CEO）&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;大槻 祥平（Otsuki, Shohei）&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;事業内容&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;現場の計測・解析 (無線・ネットワークの計測と診断)、スタートアップの技術支援、研究開発&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Business&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Field measurement and analysis (wireless and network diagnostics), engineering support for startups, R&amp;amp;D&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt; &lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;所在地&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;京都府福知山市三和町大身 1305 番地&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;HQ Location&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;1305 Omi, Miwa-cho, Fukuchiyama, Kyoto, JP&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&#xA;            &#xA;          &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &#xA;&#xA;&#xA;&lt;/div&gt;</description>
+			</item>
+	</channel>
 </rss>

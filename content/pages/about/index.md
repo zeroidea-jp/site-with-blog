@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'About Us'
-heroSubHeading: "わたしたちは、中山間地域に特化した課題に寄り添い、エンジニアリングによる課題解決を目指しています。　"
+heroSubHeading: "わたしたちは、中山間地域に拠点を置き、現場の課題解決に向き合う研究開発型の企業です。"
 heroBackground: 'images/harrison-doran-qZpsBGfdhbo-unsplash_cut.jpg'
 ---
 

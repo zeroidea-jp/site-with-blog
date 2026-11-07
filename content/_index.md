@@ -1,7 +1,7 @@
 ---
 title: 'Top'
 date: 2021-08-25T20:31:00+09:00
-heroHeading: '人と自然の境界に、向き合うべき課題がある。'
-heroSubHeading: 'わたしたちは中山間地域の課題にフォーカスして課題解決を提供するエンジニアリングチームです。'
+heroHeading: '悩みごとを、ゼロにするエンジニアリング。'
+heroSubHeading: 'わたしたちは、中山間地域に拠点を置き、現場の課題解決に向き合う研究開発型の企業です。'
 heroBackground: 'images/soichiro-ito-ryJE9g01Uvs-unsplash-2.jpg'
 ---

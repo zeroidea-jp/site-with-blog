@@ -44,3 +44,8 @@ publishDir = "docs"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # About page uses raw <div> (needed since Hugo 0.60)

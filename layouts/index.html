@@ -55,6 +55,26 @@
 </div>
 {{end}}
 
+{{ with hugo.Data.services }}
+<div class="container pt-8 pb-8 pb-md-14 pt-md-14">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <h2 class="text-center mb-3">Our Services</h2>
+    </div>
+    {{ range . }}
+    <div class="col-12 col-md-5 mb-1">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title"><a href="{{ .url }}">{{ .title }}</a></h2>
+          <p>{{ .desc }}</p>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
 {{ range first 1 (after 1 $reusablePages) }}
 <div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
